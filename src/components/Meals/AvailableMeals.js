@@ -5,26 +5,26 @@ import classes from './AvailableMeals.module.css';
 const DUMMY_MEALS = [
   {
     id: 'm1',
-    name: 'Sushi',
-    description: 'Finest fish and veggies',
+    name: 'SUSHI',
+    description: 'Maki Surimi, Avocado',
     price: 22.99,
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
+    name: 'SAKURA-BOX',
+    description: 'Maki Rolls mit Lachssalat!',
     price: 16.5,
   },
   {
     id: 'm3',
-    name: 'Barbecue Burger',
-    description: 'American, raw, meaty',
+    name: 'TOKIO-BOX',
+    description: 'Nigiri Lachs, Avocado und Surimi',
     price: 12.99,
   },
   {
     id: 'm4',
-    name: 'Green Bowl',
-    description: 'Healthy...and green...',
+    name: 'OSAKA BOX',
+    description: 'California Roll mit Lachs und Avocado',
     price: 18.99,
   },
 ];

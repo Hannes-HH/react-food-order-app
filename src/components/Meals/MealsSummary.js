@@ -3,14 +3,16 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () => {
     return (
         <section className={classes.summary}>
-            <h2>Delicious Food, Delivered To You.</h2>
+            <h2>Welcome to SUSHI ATELIER</h2>
             <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
+            Our skilled sushi chefs serve modern sushi. 
+            Think nigiri with toppings like ponzu jelly and rolls 
+            filled with yellowtail and truffle mayonnaise.
       </p>
       <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
+      The menu is a showcase of our chef’s creativity with imaginative dishes 
+      and exciting flavour combinations. As well as sushi you’ll find carpaccios, 
+      steamed dumplings, salads and cervices.
       </p>
         </section>
     )
